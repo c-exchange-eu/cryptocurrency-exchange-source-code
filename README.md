@@ -1,3 +1,6 @@
+# Contact: cezarpanek@gmail.com
+# Demo: c-exchange.eu
+
 # cryptocurrency-exchange-source-code
 c-exchange.eu – CryptoCurrency Buy Sell and Trading Software. c-exchange is for the cryptocurrency trading and selling.even you can request for buy and sell at a specific price. There have withdrawal and deposit option.
 
